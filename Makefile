@@ -1,6 +1,6 @@
 include $(TOPDIR)/rules.mk
 
-PKG_NAME:=install-program
+PKG_NAME:=installprogram
 PKG_VERSION:=2.6
 PKG_RELEASE:=20210106
 
